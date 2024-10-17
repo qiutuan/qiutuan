@@ -22,16 +22,13 @@
 
 </div>
 
-<div style="display: flex">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiutuan)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiutuan" style="max-width: 200px;" />
+  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="max-width: 300px;height: 284px;" />
 </div>
-
-
 
 
 <!-- ########################################## 分割 ########################################## -->
