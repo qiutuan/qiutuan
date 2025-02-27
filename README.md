@@ -21,9 +21,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=qiutuan&show_icons=true&count_private=true&bg_color=ffffff&title_color=FF4500&icon_color=FFD700" 
          style="display:block; width:49%"/>
          
-    <!-- 备用数据卡片（GitHub自动隐藏失效图片） -->
-    <img src="https://github-readme-stats.vercel.app/api?username=qiutuan&show_icons=true" 
-         style="position:absolute; top:0; left:0; opacity:0; pointer-events:none"/>
 </div>
 
 <!-- ===================== 语言分布 ===================== -->
